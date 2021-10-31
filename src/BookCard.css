@@ -1,0 +1,24 @@
+.books {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-start;
+    flex-wrap: wrap;}
+  
+    .card {
+      position: relative;
+      width: 20%;
+      padding: 10px;}
+
+.star-button{
+
+  flex-direction: row;
+  align-items: center;
+  position: absolute;
+  bottom: 10px;
+  align-content: center;
+  padding-left: 30px;
+ 
+}
+
+      
